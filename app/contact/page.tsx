@@ -12,7 +12,7 @@ export default function ContactPage() {
       <div className="ps-page--about" id="contact-us">
         <div
           className="ps-hero bg--cover"
-          style={{ backgroundImage: "url('/img/hero/shop-hero.png')" }}
+          style={{ backgroundImage: "url('/img/hero/banner-hero.png')" }}
         >
           <div className="ps-hero__container">
             <div className="ps-breadcrumb">
